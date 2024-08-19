@@ -1,3 +1,5 @@
+# A reuploaded .zip from the original bypass-paywalls-chrome extension https://github.com/iamadamdev/bypass-paywalls-chrome following a DMCA takedown
+
 # Bypass Paywalls Clean for Chrome
 
 Extension allows you to read articles from (supported) sites that implement a paywall.  
